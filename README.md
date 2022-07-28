@@ -1,4 +1,4 @@
-# Welcome to StackEdit!
+# Welcome!
 
 This repository is intended to share my implementations of different algorithms, especially in the field of machine learning. I will try to document the code and comment it. I will also try to comment the algorithms, their time complexity, their parameters and their prons and cons...
 
