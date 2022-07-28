@@ -5,5 +5,5 @@ This repository is intended to share my implementations of different algorithms,
 
 # Implementations
 
-- Sarsa($\lambda$) using Numpy,  [here](https://github.com/web2webs/labs/blob/main/Tabular_SARSA_lambda.ipynb) ( implementation from [Reinforcement Learning: An Introduction](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) )
+- Sarsa($\lambda$) using Numpy,  [here](https://github.com/web2webs/labs/blob/main/Tabular_SARSA_lambda.ipynb) ( implementation from [Reinforcement Learning: An Introduction (page (185)](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) )
 - Sarsa($\lambda$) using PyTorch, fast using GPU,  [here](https://github.com/web2webs/labs/blob/main/Tabular%20SARSA%20lambda%20pytorch.ipynb)
